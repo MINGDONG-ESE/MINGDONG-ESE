@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Hu(@MINGDONG-ESE)
+- 👋 Hi, I’m David Hu(@mingdonghu)
 - 👀 I’m interested in Embedded technical and robotics technical
 - 🌱 I’m currently learning Embedded system development and robotics development
 - 💞️ I’m looking to collaborate on robotics system development
